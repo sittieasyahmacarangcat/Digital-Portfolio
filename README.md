@@ -1,1 +1,2 @@
 # Digital-Portfolio
+A digital portfolio, also called an e-portfolio or online portfolio, is a curated, electronic space where students can display their projects, assignments, artwork, videos, essays, and other learning artifacts. Unlike a simple folder or storage system, it is purposefully organized to reflect learning objectives, personal growth, and achievements, allowing both students and educators to track progress over time.
